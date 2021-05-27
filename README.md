@@ -18,6 +18,7 @@ Lecture materials and related reading
   http://101.datascience.community/2014/07/08/data-scientist-vs-data-engineer/
 
 #############
+
   Data Scientist Qualifications and Skills
   https://docs.google.com/presentation/d/1b_TOhtW47_g8MifdprZbRN7jj73Ao0akgihDfaF6DwI/edit?usp=sharing
 
@@ -40,6 +41,7 @@ Lecture materials and related reading
   http://qz.com/378228/google-is-over-those-ridiculous-brainteasers-but-some-employees-didnt-get-the-memo/
 
 ##############
+
   Onboarding the data science team
   https://docs.google.com/presentation/d/1Mp9zRMm-OfIPwm6jMX6dcDcW7TjAEZmQBpSnTaLoaRc/edit?usp=sharing
 
