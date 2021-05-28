@@ -1,6 +1,7 @@
 # Certificates of MOOCs attended.
 
 ## Executive Data Science
+<details>
 ### Building a data Science Team
 
 Lecture materials and related reading
@@ -93,6 +94,7 @@ Lecture materials and related reading
   https://www.coursera.org/specializations/executive-data-science
   https://www.coursera.org/specializations/jhudatascience
 
+</details>
 
 ## Machine Learning 
 
