@@ -1,28 +1,27 @@
 # Certificates of MOOCs attended.
 
-## Executive Data Science
 <details>
+<summary>Executive Data Science - Specialization</summary>
 
   <details>
-  ### Building a data Science Team
-
-  Lecture materials and related reading
-    About your instructor: 
+  <summary>1. A Crash Course in Data Science</summary>
+    This one-module course constitutes the first "week" of the Executive Data Science Specialization. This is an intensive introduction to what you need to know about data   science itself. You'll learn important terminology and how successful organizations use data science.
+  
+  </details>
+  
+  <details>
+  <summary>2. Building a data Science Team</summary>
+    Lecture materials and related reading
+    * About your instructor:\
     https://docs.google.com/presentation/d/1KstJuGxyn4gEFBL-jLqDzX9iHSYKjtEldj8wXOP6558/edit?usp=sharing
-
-    The data team
+    * The data team\
     https://docs.google.com/presentation/d/1vj0kUQkQMHo4jlpnHanq9gZyEWBQTdZNX7HWscIu9p8/edit?usp=sharing
-
-    When do you need data science?
+    * When do you need data science?\ 
     https://docs.google.com/presentation/d/1RTI9ORlLPT5WliHKqQWtwC-Ge4WujhkTulT6tss4Qs0/edit?usp=sharing
 
-    Related reading:
+    Related reading:  
     http://simplystatistics.org/
     http://101.datascience.community/2014/07/08/data-scientist-vs-data-engineer/
-  </details>
-
-  #############
-  <details>
 
     Data Scientist Qualifications and Skills
     https://docs.google.com/presentation/d/1b_TOhtW47_g8MifdprZbRN7jj73Ao0akgihDfaF6DwI/edit?usp=sharing
@@ -33,9 +32,7 @@
     Data Science Manager Qualifications and Skills
     https://docs.google.com/presentation/d/1zcvzzkAZun_K8FkvKGGxboJnHomXgFonJraoJfjXdVI/edit?usp=sharing
 
-    </details>
-  
-    <details>
+
     Where to find the data team?
     https://docs.google.com/presentation/d/1_lrS0HnFA9obg8Q8nirhsjfyMGBf1klEP_Wa1p27BBs/edit?usp=sharing
 
@@ -46,9 +43,6 @@
     http://www.quora.com/How-does-Airbnb-hire-data-scientists
     http://qz.com/378228/google-is-over-those-ridiculous-brainteasers-but-some-employees-didnt-get-the-memo/
 
-    </details>
-
-    <details>
 
     Onboarding the data science team
     https://docs.google.com/presentation/d/1Mp9zRMm-OfIPwm6jMX6dcDcW7TjAEZmQBpSnTaLoaRc/edit?usp=sharing
@@ -63,10 +57,6 @@
     https://hbr.org/2013/09/nate-silver-on-finding-a-mentor-teaching-yourself-statistics-and-not-settling-in-your-career/
     https://hbr.org/2013/03/know-the-difference-between-yo/
 
-    </details>
-
-    <details>
-
     Embedded teams versus dedicated groups
     https://docs.google.com/presentation/d/1OvkQBuLJFqmHfk9SzBzRpU2zbImrK7c-Wxa5aw_gsVs/edit?usp=sharing
 
@@ -80,10 +70,6 @@
     https://www.youtube.com/watch?v=7B3n-5atLxM
     http://shiny.rstudio.com/gallery/
     http://venturebeat.com/2015/06/30/how-we-scaled-data-science-to-all-sides-of-airbnb-over-5-years-of-hypergrowth/
-
-    </details>
-
-    <details>
 
     Common internal difficulties
     https://docs.google.com/presentation/d/1QiZpEOrFeKUVHqvPR43R1ehrbN9qk7Xi76_vmlw92ks/edit?usp=sharing
