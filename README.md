@@ -19,8 +19,10 @@
     Related reading:
     http://simplystatistics.org/
     http://101.datascience.community/2014/07/08/data-scientist-vs-data-engineer/
+  </details>
 
   #############
+  <details>
 
     Data Scientist Qualifications and Skills
     https://docs.google.com/presentation/d/1b_TOhtW47_g8MifdprZbRN7jj73Ao0akgihDfaF6DwI/edit?usp=sharing
@@ -31,8 +33,9 @@
     Data Science Manager Qualifications and Skills
     https://docs.google.com/presentation/d/1zcvzzkAZun_K8FkvKGGxboJnHomXgFonJraoJfjXdVI/edit?usp=sharing
 
-  ##############
-
+    </details>
+  
+    <details>
     Where to find the data team?
     https://docs.google.com/presentation/d/1_lrS0HnFA9obg8Q8nirhsjfyMGBf1klEP_Wa1p27BBs/edit?usp=sharing
 
@@ -43,7 +46,9 @@
     http://www.quora.com/How-does-Airbnb-hire-data-scientists
     http://qz.com/378228/google-is-over-those-ridiculous-brainteasers-but-some-employees-didnt-get-the-memo/
 
-  ##############
+    </details>
+
+    <details>
 
     Onboarding the data science team
     https://docs.google.com/presentation/d/1Mp9zRMm-OfIPwm6jMX6dcDcW7TjAEZmQBpSnTaLoaRc/edit?usp=sharing
@@ -58,7 +63,9 @@
     https://hbr.org/2013/09/nate-silver-on-finding-a-mentor-teaching-yourself-statistics-and-not-settling-in-your-career/
     https://hbr.org/2013/03/know-the-difference-between-yo/
 
-  ###############
+    </details>
+
+    <details>
 
     Embedded teams versus dedicated groups
     https://docs.google.com/presentation/d/1OvkQBuLJFqmHfk9SzBzRpU2zbImrK7c-Wxa5aw_gsVs/edit?usp=sharing
@@ -74,7 +81,10 @@
     http://shiny.rstudio.com/gallery/
     http://venturebeat.com/2015/06/30/how-we-scaled-data-science-to-all-sides-of-airbnb-over-5-years-of-hypergrowth/
 
-  #################
+    </details>
+
+    <details>
+
     Common internal difficulties
     https://docs.google.com/presentation/d/1QiZpEOrFeKUVHqvPR43R1ehrbN9qk7Xi76_vmlw92ks/edit?usp=sharing
 
@@ -87,15 +97,16 @@
     http://simplystatistics.org/2013/10/09/the-care-and-feeding-of-your-scientist-collaborator/
     http://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/
 
-  ##############
+    </details>
 
+    <details>
     Course Wrap-up
     https://docs.google.com/presentation/d/1NYPONB9ibxmkkFIxVNExe_LjMPnM5dYd0LulnyWjkKM/edit?usp=sharing
 
     Related Reading
     https://www.coursera.org/specializations/executive-data-science
     https://www.coursera.org/specializations/jhudatascience
-  </details>
+    </details>
   
 </details>
 
