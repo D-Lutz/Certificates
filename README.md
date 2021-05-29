@@ -95,7 +95,3 @@
     </details>
   
 </details>
-
-## Machine Learning 
-
-## Deep Learning 
