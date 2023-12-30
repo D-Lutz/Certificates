@@ -10,7 +10,7 @@
   </details>
   
   <details>
-  <summary>2. Building a data Science Team</summary>
+  <summary>2. Building a Data Science Team</summary>
     Lecture materials and related reading
     * About your instructor:\
     https://docs.google.com/presentation/d/1KstJuGxyn4gEFBL-jLqDzX9iHSYKjtEldj8wXOP6558/edit?usp=sharing
